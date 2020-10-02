@@ -1,0 +1,126 @@
+.title {
+  background-color: maroon;
+  color: white;
+  padding: 45px;
+  font-size: 220%;
+}
+
+.login {
+  color: white;
+  position: relative;
+  left: 1000px;
+  font-size: medium;
+}
+
+.links {
+  background-color:rgba(60, 60, 60, 1.0);
+  text-align: right;
+  padding: 10px;
+}
+
+.building {
+  color: white;
+  position: relative;
+  right: 110;
+  top: 32;
+}
+
+.art {
+  color: white;
+  position: relative;
+  right: 80;
+  top: 16;
+}
+
+.featured {
+  color: white;
+  position: relative;
+  right: 10;
+}
+
+.museum {
+  width: 65%;
+  height: 70%;
+  padding: 30px;
+}
+
+.column {
+  padding: 50px;
+  position: relative;
+  left: 1000px;
+  top: -550px;
+}
+
+.h {
+  font-size: 150%;
+}
+
+.larimer {
+  width: 15%;
+  height: 20%;
+}
+
+.millenium {
+  width: 15%;
+  height: 20%;
+}
+
+.molly {
+  width: 15%;
+  height: 20%;
+}
+
+.denver {
+  font-size: 200%;
+  margin: 22px;
+}
+
+.firstp {
+  position: relative;
+  top: -800px;
+  white-space: normal;
+  padding: 15;
+}
+.first{
+  padding: 0px;
+  margin: 12px;
+}
+
+.second{
+  padding: 0px;
+  margin: 12px;
+}
+
+.third {
+  padding: 0px;
+  margin: 12px;
+}
+
+.fourth {
+  padding: 0px;
+  margin: 12px;
+}
+
+.lastp {
+  position: relative;
+  top: -800px;
+  background-color:rgba(60, 60, 60, 1.0);
+  padding: 35px;
+}
+
+.footer {
+  color: white;
+}
+
+body {
+  margin-bottom: 0;
+}
+
+html,body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
